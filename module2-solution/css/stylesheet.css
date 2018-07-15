@@ -76,4 +76,7 @@ h1 {
         margin: auto;
         margin-top: 10px;
     }
+    .main-section.third {
+        margin-bottom: 5px;
+    }
 }
