@@ -8,11 +8,12 @@ body {
 	border-top: 2px solid black;
 	border-bottom: 2px solid black;
 }
-.navbar-header .navbar-brand {
+.navbar-header .navbar-brand a, .navbar-header .navbar-brand a h1{
 	color: black;
-	font-size: 2em;
+	text-decoration: none;
+	margin-top: 0;
 	vertical-align: middle;
-	margin-top: 10px;
+	line-height: 0.75;
 }
 .container-fluid h2 {
 	margin: 15px auto 30px;
