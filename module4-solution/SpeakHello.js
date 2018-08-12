@@ -7,7 +7,7 @@
 // See Lecture 52, part 1
 // 
 // DO NOT attach the speakWord variable to the 'helloSpeaker' object.
-(function() {
+(function(window) {
 	var speakWord = "Hello";
 	var helloSpeaker = {};
 	helloSpeaker.speak = function(name) {
@@ -24,5 +24,5 @@
 	// (Note, Step 6 will be done in the SpeakGoodBye.js file.)
 	window.helloSpeaker = helloSpeaker;
 
-})();
+})(window);
 
