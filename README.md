@@ -1,7 +1,7 @@
-# coursera-test
-This repository has been created to host the assignments for the "HTML, CSS, and Javascript for Web Developers" course in Coursera.
+# HTML, CSS and JavaScript
 
-# Here are the brief descriptions of each assignment
+This repository has been created to host the assignments for the "HTML, CSS, and Javascript for Web Developers" course in Coursera.
+Below you can find the brief descriptions of each assignment.
 
 # module2-solution
 This solution shows the aligment of three divs in a responsive manner. Flexbox is used to align the divs.
